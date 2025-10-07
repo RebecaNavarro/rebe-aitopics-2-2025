@@ -1,0 +1,7 @@
+torch
+torchvision
+ultralytics
+mediapipe
+opencv-python
+fastapi[standard]
+numpy

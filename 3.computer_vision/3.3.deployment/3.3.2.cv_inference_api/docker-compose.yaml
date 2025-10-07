@@ -1,0 +1,6 @@
+services:
+  # FastAPI Application Service
+  inference-api:
+    build: .
+    ports:
+      - "8000:8000"
